@@ -1,6 +1,8 @@
 Title: Setting up your Pelican blog on GitHub Pages
 Date: 2016-06-18 
 Category: Programming
+Tags: Python, Pelican, blogging
+Slug: setting-up-pelican-blog-github-pages
 
 Step 1: Follow [this tutorial](http://mathamy.com/migrating-to-github-pages-using-pelican.html)
 
@@ -8,3 +10,4 @@ Step 2: Set up your git pre-commit hook by following [this tutorial](http://mava
 
 Step 3: With this set up, you would add a new post simply by saving your post in your content folder, committing from your source directory (wherever your `pelicanconf.py` file is located), and then just pushing to origin.
 
+Woohoo!
